@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>fode.obama</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur fode.obama</h1>
+    <p>Ceci est mon tout premier article !</p>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    
